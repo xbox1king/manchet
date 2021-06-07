@@ -13,14 +13,14 @@
 {
                "name": "THAIRAT",
                "image": "https://www.thairath.co.th/assets/tv/img/share_tv.jpg",
-               "url": "https://thairathtv.cdn.byteark.com/fleetstream/live1/720p/index.m3u8","referer": "https://www.thairath.co.th/",
+               "url": "https://thairathtv.cdn.byteark.com/fleetstream/live1/720p/index.m3u8","referer": "",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"},
 
             
  {
                "name": "True Premier Football HD 1",
                "image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg",
-               "url": "https://live.andaman888th.com/live/tpf1/sport/tpf1-backup/chunks.m3u8","referer": "https://www.andaman888th.com",
+               "url": "https://fo1iptv.com/tv-player/true-premuim-1-vkd80p04jvr0.html","referer": "https://fo1iptv.com/",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36"},
 
 
