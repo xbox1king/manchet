@@ -1387,20 +1387,22 @@
                "name": "Mortal Kombat (2021) - มอร์ทัล คอมแบท",
                "image": "https://www.img07.xyz/assets/movie_poster/3/3ba1dfbd6fbddc7fb0704d3b223be7ab.jpg",              
                "url": "https://cdn.youlive-cdn.com/hls/0b15413b5d5ce16a0918e1b5d595f5c3/0b15413b5d5ce16a0918e1b5d595f5c3.m3u8","referer": "https://www.doomovie-hd.com/",
-      "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
-
+      "playInNatPlayer": "true"
+},
  {
                "name": "Godzilla vs. Kong (2021) - ก็อดซิลล่า ปะทะ คอง",
                "image": "https://www.img02.xyz/assets/movie_poster/f/f40af2eb2fc3ade7c27a92f4df63f53f.jpg",              
                "url": "https://cdn.youlive-cdn.com/hls/4767a20c3bc6f0878a76285e8f2a5830/4767a20c3bc6f0878a76285e8f2a5830.m3u8","referer": "https://www.doomovie-hd.com/",
-      "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
+      "playInNatPlayer": "true"
+},
 
  {
                "name": "Zack Snyder's Justice League - จัสติซ ลีก ของ แซ็ค สไนเดอร์
 ",
                "image": "https://www.img02.xyz/assets/movie_poster/0/0ddb7c690eaf9b0f701aab72e2ad94c7.jpg",              
                "url": "https://cdn.youlive-cdn.com/hls/28763d1b21a434743fb01300fba4fa17/28763d1b21a434743fb01300fba4fa17.m3u8","referer": "https://www.doomovie-hd.com/",
-      "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
+     "playInNatPlayer": "true"
+},
 
 
 
