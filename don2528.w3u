@@ -1506,6 +1506,37 @@
 "isHost" : true,
 "online": false},
 
+{
+	"name": " Real UHD 4K  ",
+	"author": "Playlist Developers",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rzoxl2P6I2AN2ePvkcZpbmOJJ0fJdrxKbw&usqp=CAU",
+	"url": "",
+
+  "groups":                                    [
+                      {
+"name": " 4K SV1 380สถานี",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rzoxl2P6I2AN2ePvkcZpbmOJJ0fJdrxKbw&usqp=CAU",
+"url": "https://www.dropbox.com/s/zlfx95wpt5kaamo/Real%204K%20UHD%20%20SV%201.bin?dl=1",
+"import": false
+},   
+
+
+	
+  {"name": " 4K  SV2 560สถานี",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rzoxl2P6I2AN2ePvkcZpbmOJJ0fJdrxKbw&usqp=CAU",
+"url": "https://www.dropbox.com/s/xy81ux9l5s6zjov/Real%204K%20UHD%20%20SV%202.bin?dl=1",
+"import": false
+
+                                },
+								
+								
+		  {"name": "Series UHD 4K",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rzoxl2P6I2AN2ePvkcZpbmOJJ0fJdrxKbw&usqp=CAU",
+"url": "https://www.dropbox.com/s/swu6esb15wwsro9/Series%20UHD%204K%20.bin?dl=1",
+"import": false
+
+                                },
+
 
 
 
