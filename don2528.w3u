@@ -13,7 +13,7 @@
 {
                "name": "THAIRAT",
                "image": "https://www.thairath.co.th/assets/tv/img/share_tv.jpg",
-               "url": "https://thairathtv.cdn.byteark.com/fleetstream/live1/720p/index.m3u8","referer": "https://www.thairath.co.th/tv",
+               "url": "https://thairathtv.cdn.byteark.com/fleetstream/live1/720p/index.m3u8","href": "https://www.thairath.co.th/tv",
             "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"},
 
 
