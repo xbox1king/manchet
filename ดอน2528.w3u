@@ -15,14 +15,14 @@
                "name": "epl1B",
                "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",
                "url": "https://www.doomovie-hd.com/?r=tv_view&id=151","referer": "https://www.doomovie-hd.com/",
-              "desktop": "true","isHost":true},	
+              "desktop": "true","isHost":false},	
 
                
  {
                "name": "epl1",
                "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",
                "url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8","referer": "https://www.doomovie-hd.com/",
-              "desktop": "true","isHost":true},
+              "desktop": "true","isHost":false},
                                     
                
                         
