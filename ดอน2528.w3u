@@ -12,7 +12,7 @@
           "stations": [
 
 {
-               "name": "epl1",
+               "name": "epl1B",
                "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",
                "url": "https://www.doomovie-hd.com/?r=tv_view&id=151","referer": "https://www.doomovie-hd.com/",
               "userAgent": "exoplayer_video",
