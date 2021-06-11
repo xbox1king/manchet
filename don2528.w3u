@@ -15,7 +15,8 @@
                "image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg",
                "url": "https://www.doomovie-hd.com/api/App/?r=tv_view&id=151","referer": "https://www.doomovie-hd.com/",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"},
-               "isHost": true},
+               "isHost": false
+                        },
                                 
 
 
@@ -23,8 +24,8 @@
                "name": "SkynetSport HD",
                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsporthd.jpg",
                "url": "https://live.andaman888th.com/live/skynetsporthd/sport/skynethd/chunks.m3u8","referer": "https://www.andaman888th.com/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36"},
-
+            "isHost": false
+                        },
 {
                "name": "SkynetSport HD1",
                "image": "https://www.andaman888th.com/wp-content/uploads/2019/02/skynetsport1.jpg",
