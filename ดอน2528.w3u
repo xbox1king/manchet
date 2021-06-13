@@ -20,7 +20,13 @@
                "name": "epl1",
                "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",
                "url": "https://www.ball8k.com/channel?ch=epl1","referer": "https://www.ball8k.com/",
-               "desktop": "false"},
+                "desktop": "false"},
+    {
+               "name": "NBT HD2",
+               "image": "https://ball8k.co/ball8k/stream/img_ch/20210612121340_EURO2020.png",
+               "url": "https://www.ball8k.com/channel?ch=nbt","referer": "https://www.ball8k.com/",
+                "desktop": "false"},             
+              
               
                 
                 
