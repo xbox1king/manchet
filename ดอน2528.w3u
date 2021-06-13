@@ -14,11 +14,20 @@
 {
                "name": "epl1",
                "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",              
-               "url": "https://we-play.live/watching/tv/true-premier-football-hd-1","referer": "https://we-play.live/",
+               "url": "https://beinsport.biz/live/epl-1/","referer": "https://beinsport.biz",
                 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
               "playInNatPlayer": "true",
               "embed": "true"
             },
+            
+   {
+               "name": "epl1",
+               "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",              
+               "url": "https://we-play.live/watching/tv/true-premier-football-hd-1","referer": "https://we-play.live/",
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },         
   {
                "name": "epl1",
                "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",
