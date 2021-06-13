@@ -15,7 +15,8 @@
                "name": "จูปิเตอร์ส เลกาซี่ EP.1",
                "image": "https://www.123-hd.com/wp-content/uploads/2021/05/Jupiters-Legacy-2021-%E0%B8%88%E0%B8%B9%E0%B8%9B%E0%B8%B4%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B9%80%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%8B%E0%B8%B5%E0%B9%88-300x450.png",              
                "url": "https://1th.me/aKDXK",
-               "isHost": true
+               "userAgent":"Mozilla/5.0 (Linux; Android 10; JNY-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36",
+                    "isHost" : false 
                 },
                 
                
@@ -26,7 +27,9 @@
                "name": "epl1",
                "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",
                "url": "https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8","referer": "https://www.doomovie-hd.com/",
-              "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36"},
+              "userAgent":"Mozilla/5.0 (Linux; Android 10; JNY-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36",
+                    "isHost" : false 
+                },
              
                                     
                
