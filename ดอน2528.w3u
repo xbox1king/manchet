@@ -35,6 +35,15 @@
               "playInNatPlayer": "true",
               "embed": "true"
             },
+            
+      {
+               "name": "btsport1",
+               "image": "https://ball8k.co/ball8k/stream/img_ch/20210219104634_btsport1.jpg",
+               "url": "https://www.ball8k.com/channel?ch=btsport1","referer": "https://www.ball8k.com/",
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+              "playInNatPlayer": "true",
+              "embed": "true"
+            },       
       ]
         },
 
