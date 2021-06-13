@@ -12,9 +12,9 @@
           "stations": [
 
 {
-               "name": "epl1",
-               "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",              
-               "url": "https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8","referer": "https://www.123-hd.com/"},
+               "name": "SPORT TV + ᶠᴴᴰ",
+               "image": "https://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg",              
+               "url": "http://146.59.187.3:8080/mMPvJurAMB/g9cKPqIp3G/52265","referer": "http://146.59.187.3:8080/"},
               
       
             
