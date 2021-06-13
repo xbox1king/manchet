@@ -15,8 +15,8 @@
                "name": "จูปิเตอร์ส เลกาซี่ EP.1",
                "image": "https://www.123-hd.com/wp-content/uploads/2021/05/Jupiters-Legacy-2021-%E0%B8%88%E0%B8%B9%E0%B8%9B%E0%B8%B4%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B9%80%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%8B%E0%B8%B5%E0%B9%88-300x450.png",              
                "url": "https://1th.me/aKDXK",
-               "userAgent":"MXPlayer/1.31.4 (Linux; Android 10; en-US; JNY-LX1 Build/JNY-L21 10.1.0.306(C185E4R6P1))",
-                    "isHost" : false
+               "playInNatPlayer": true,
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
                 },
                 
                
@@ -27,8 +27,8 @@
                "name": "epl1",
                "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",
                "url": "https://www.ball8k.com/channel?ch=epl18","referer": "https://www.ball8k.com/",
-             "userAgent":"MXPlayer/1.31.4 (Linux; Android 10; en-US; JNY-LX1 Build/JNY-L21 10.1.0.306(C185E4R6P1))",
-                    "isHost" : false
+              "playInNatPlayer": true,
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
                 },
              
                                     
