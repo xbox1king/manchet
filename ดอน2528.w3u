@@ -37,14 +37,14 @@
 			   
 			   
 			   ",
-                           "image": "https://www.dropbox.com/s/v0x8iwyudk3drez/lKXLMJ.png",
+                           "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
 					       "referer": "https://dooball66.com/",	
 					       "url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f&ref=none",
-					       "playInNatPlayer": true
+					       "isHost": true
                         },
 			{
                            "name": "skybundesliga",
-                           "image": "https://www.dropbox.com/s/v0x8iwyudk3drez/lKXLMJ.png",
+                           "image": "https://overseer.blackboxsys.net/images/png/de-skybundesliga.png",
 					       "referer": "https://dooball66.com/",	
 					       "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f&ref=none",
 					       "isHost": true
