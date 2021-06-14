@@ -32,7 +32,13 @@
 					       "url": "https://www.we-play.tv/watching/tv/true-premier-football-hd-3",
 					       "isHost": true
                         },
-			
+			{
+                           "name": "skybundesliga",
+                           "image": "https://www.dropbox.com/s/v0x8iwyudk3drez/lKXLMJ.png",
+					       "referer": "https://dooball66.com/",	
+					       "url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmcb4rf66f&ref=none",
+					       "isHost": true
+                        },
 ]
         },
 
