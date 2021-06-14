@@ -39,16 +39,14 @@
 			   ",
                            "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
 					       "referer": "https://ilike.livedoomovie.com/",	
-					       "url": "https://ilike.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8",		 
-                         "isHost": true
-                        },
+					       "url": "https://ilike.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8"},		 
+                        
 			{
                            "name": "skybundesliga",
                            "image": "https://overseer.blackboxsys.net/images/png/epl-1.png",
 					       "referer": "https://www.123-hd.com/",	
-					       "url": "https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8",
-					       "isHost": true
-                        },
+					       "url": "https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8"},
+					     
 ]
         },
 
