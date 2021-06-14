@@ -1,57 +1,39 @@
 {
-   "name": "สุดยอดทางพร้าว",
-   "author": "สุดยอดทางพร้าว",
-   "url": "สุดจัด",
+   "name": "ดอนนครศรี",
+   "author": "@ดอนนครศรี",
+   "url": "ดอนนครศรี",
    "image": "https://media.giphy.com/media/wgmfERrYMZkf1qeXIh/giphy.gif",
-   "info": "ไม่มีไรมาก",
+   "info": "ห้ามนำไปทำเพื่อการค้า",
    "groups": [
 
-      {
-         "name": "กีฬา ",
-          "image": "https://media.giphy.com/media/3UEMk24Ijpmfu/giphy.gif",
-          "stations": [
-
-{
-               "name": "SPORT TV + ᶠᴴᴰ",
-               "image": "https://www.nos.pt/institucional/PT/sobre-a-nos/empresas-e-negocios/PublishingImages/Logos/sport-tv.jpg",              
-               "url": "http://146.59.187.3:8080/mMPvJurAMB/g9cKPqIp3G/52266","referer": "http://146.59.187.3:8080/"},
-              
-      
-            
-   {
-               "name": "epl1",
-               "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",              
-               "url": "https://we-play.live/watching/tv/true-premier-football-hd-1","referer": "https://we-play.live/",
-                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-              "playInNatPlayer": "true",
-              "embed": "true"
-            },         
-  {
-               "name": "epl1",
-               "image": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",
-               "url": "https://www.ball8k.com/channel?ch=epl1","referer": "https://www.ball8k.com/",
-                 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-              "playInNatPlayer": "true",
-              "embed": "true"
-            },
-    {
-               "name": "NBT HD2",
-               "image": "https://ball8k.co/ball8k/stream/img_ch/20210612121340_EURO2020.png",
-               "url": "https://www.ball8k.com/channel?ch=nbt","referer": "https://www.ball8k.com/",
-                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-              "playInNatPlayer": "true",
-              "embed": "true"
-            },
-            
-      {
-               "name": "btsport1",
-               "image": "https://ball8k.co/ball8k/stream/img_ch/20210219104634_btsport1.jpg",
-               "url": "https://www.ball8k.com/channel?ch=btsport1","referer": "https://www.ball8k.com/",
-                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-              "playInNatPlayer": "true",
-              "embed": "true"
-            },       
-      ]
+        {
+            "name": "SPORT",
+            "image": "https://image.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg",
+            "stations": [
+                  
+                        {
+                           "name": "True Premier Football HD 1",
+                           "image": "https://www.we-play.tv//uploads/posters/-poster1602703965.jpeg",
+					       "referer": "https://www.we-play.tv/",	
+					       "url": "https://www.we-play.tv/watching/tv/true-premier-football-hd-1",
+					       "isHost": true	
+                        },
+			{
+                           "name": "True Premier Football HD 2",
+                           "image": "https://www.we-play.tv//uploads/posters/-poster1602703981.jpeg",
+					       "referer": "https://www.we-play.live/",	
+					       "url": "https://www.we-play.tv/watching/tv/true-premier-football-hd-2",
+					       "isHost": true
+                        },
+			{
+                           "name": "True Premier Football HD 3",
+                           "image": "https://www.we-play.tv//uploads/posters/-poster1602703991.jpeg",
+					       "referer": "https://www.we-play.tv/",	
+					       "url": "https://www.we-play.tv/watching/tv/true-premier-football-hd-3",
+					       "isHost": true
+                        },
+			
+]
         },
 
 
@@ -66,52 +48,4 @@
 ]
 }
 ]
-}          
-              
-              
-                
-                
-                
-               
-        
-
-               
-
-             
-                                    
-               
-                        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
