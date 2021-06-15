@@ -55,6 +55,11 @@
             "name": "netflix",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT53bmsckMv6rFu4UhhFacUnBgrCJV-fo2VAjHNf_pZ909CPtur_t1opkOLvNCpV2AoETI&usqp=CAU",
             "stations": [
+	    
+	    {	
+            "name": "จอมโจรลูแปง 2",
+            "image": "https://www.123-hd.com/wp-content/uploads/2021/06/Lupin-Season-2-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-2-300x450.png",
+            "stations": [
 	    {
                            "name": "จอมโจรลูแปง 2ep1",
                            "image": "https://www.123-hd.com/wp-content/uploads/2021/06/Lupin-Season-2-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-2-300x450.png",
@@ -66,8 +71,25 @@
                            "name": "จอมโจรลูแปง 2ep2",
                            "image": "https://www.123-hd.com/wp-content/uploads/2021/06/Lupin-Season-2-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-2-300x450.png",
 					      	
-					       "url": "https://xxx.77player.xyz/hls/adcd5086250e7fbe77b5e85b6179f1ba/adcd5086250e7fbe77b5e85b6179f1ba.m3u8"},			       
-			                       
+					       "url": "https://xxx.77player.xyz/hls/adcd5086250e7fbe77b5e85b6179f1ba/adcd5086250e7fbe77b5e85b6179f1ba.m3u8"},
+					       
+			{
+                           "name": "จอมโจรลูแปง 2ep3",
+                           "image": "https://www.123-hd.com/wp-content/uploads/2021/06/Lupin-Season-2-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-2-300x450.png",
+					      	
+					       "url": "https://xxx.77player.xyz:443/hls/5ba3f4d5632dd7c727bf3fb1d3e9b758/5ba3f4d5632dd7c727bf3fb1d3e9b758.m3u8"},
+					       
+			{	
+                           "name": "จอมโจรลูแปง 2ep4",
+                           "image": "https://www.123-hd.com/wp-content/uploads/2021/06/Lupin-Season-2-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-2-300x450.png",
+					      	
+					       "url": "https://xxx.77player.xyz:443/hls/85539485e344389dbc0fa0434f59a684/85539485e344389dbc0fa0434f59a684.m3u8"},
+			{	
+                           "name": "จอมโจรลูแปง 2ep5จบ",
+                           "image": "https://www.123-hd.com/wp-content/uploads/2021/06/Lupin-Season-2-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-2-300x450.png",
+					      	
+					       "url": "https://xxx.77player.xyz/hls/9e66c61e22acd125e2a6d7d39207694c/9e66c61e22acd125e2a6d7d39207694c.m3u8"},		       
+					       
 ]
         },
 
