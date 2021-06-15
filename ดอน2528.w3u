@@ -57,11 +57,39 @@
             "stations": [
 	   
 	    {
+                           "name": "จอมโจรลูแปง 1ep1",
+                           "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Lupin-Season-1-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-300x450.png",
+					
+					       "url": "https://xxx.77player.xyz/hls/eb222e2de3c351192027e4fe9575497f/eb222e2de3c351192027e4fe9575497f.m3u8"},
+					       
+	   	 {
+                           "name": "จอมโจรลูแปง 1ep2",
+                           "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Lupin-Season-1-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-300x450.png",
+					
+					       "url": "https://xxx.77player.xyz/hls/71ec9aa86723a39a432b8b2bb8429146/71ec9aa86723a39a432b8b2bb8429146.m3u8"},			       
+					       
+			{
+                           "name": "จอมโจรลูแปง 1ep3",
+                           "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Lupin-Season-1-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-300x450.png",
+					
+					       "url": "https://xxx.77player.xyz/hls/c22770f725914e2cef6ea417956c5f93/c22770f725914e2cef6ea417956c5f93.m3u8"},
+					       
+			{
+                           "name": "จอมโจรลูแปง 1ep4",
+                           "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Lupin-Season-1-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-300x450.png",
+					
+					       "url": "https://xxx.77player.xyz/hls/2f4b88c5bcdae28e52c1835f9e47619c/2f4b88c5bcdae28e52c1835f9e47619c.m3u8"},
+					       
+			{
+                           "name": "จอมโจรลูแปง 1ep5",
+                           "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Lupin-Season-1-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-300x450.png",
+					
+					       "url": "https://xxx.77player.xyz/hls/1ef22fc7e4645475f83f8952e729f8f7/1ef22fc7e4645475f83f8952e729f8f7.m3u8"},		       
+				{
                            "name": "จอมโจรลูแปง 2ep1",
                            "image": "https://www.123-hd.com/wp-content/uploads/2021/06/Lupin-Season-2-2021-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-2-300x450.png",
 					
-					       "url": "https://xxx.77player.xyz/hls/faf5e07dbb94c19cc64241b62ebfe065/faf5e07dbb94c19cc64241b62ebfe065.m3u8"},
-					     
+					       "url": "https://xxx.77player.xyz/hls/faf5e07dbb94c19cc64241b62ebfe065/faf5e07dbb94c19cc64241b62ebfe065.m3u8"},	     
                         
 		        {
                            "name": "จอมโจรลูแปง 2ep2",
