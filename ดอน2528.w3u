@@ -122,7 +122,13 @@
 "url":"https://we-play.live/watching/movie/the-desert-dragon-2021","Referer": "https://we-play.live/",
 "desktop" : true,
 "isHost": true},
-                
+{  
+			
+"name":"แร็กนาร็อค มหาศึกชี้ชะตา ปี 2",
+"image":"https://cdn-img.movieclub.tv/img_series_vertical/1622181054_cover1.jpg",
+"url":"https://www.all-movie.tv/Ragnarok%20Season%202","Referer": "https://www.all-movie.tv/",
+"desktop" : true,
+"isHost": true},                
 		       
 ]
         },
